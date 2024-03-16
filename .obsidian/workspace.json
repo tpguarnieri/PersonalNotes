@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-16.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-16.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-16.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-16.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "42271ce6e2bf4df0",
   "lastOpenFiles": [
+    "2024-03-16.md",
     "README.md",
-    "Welcome.md",
-    "2024-03-16.md"
+    "Welcome.md"
   ]
 }
